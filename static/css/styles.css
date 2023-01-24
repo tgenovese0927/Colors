@@ -1,0 +1,70 @@
+header.masthead {
+     background-size: cover;
+     padding-top: 200px;
+     padding-bottom: 200px;
+     text-align: center;
+}
+
+.site-head {
+ color: #FFFFFF
+}
+
+.input {
+ margin-top: 60px;
+ text-align: center;
+}
+
+.frame {
+        width: 400px;
+        height: 350px;
+        border: 3px solid #ccc;
+        background: #eee;
+        margin: auto;
+        padding: 15px 10px;
+      }
+
+.window {
+        width: 100%;
+        height: 100%;
+      }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.center_img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.pad {
+ padding-top: 50px;
+
+}
+
+.wall {
+     background-size: cover;
+     padding-top: 200px;
+     padding-bottom: 200px;
+     text-align: center;
+     margin-bottom: 50px;
+}
+
+.box {
+  float: left;
+  height: 40px;
+  width: 90px;
+  margin-bottom: 30px;
+  border: 1px solid black;
+  clear: both;
+}
+
+h5 {
+ padding-top: 15px;
+
+}
